@@ -1,4 +1,4 @@
 test:
   override:
-    - exit 1
-    - exit 0
+    - cd d && exit 1
+    - cd d && exit 0
